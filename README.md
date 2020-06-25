@@ -1,6 +1,6 @@
 # tennis_image
 
- José Carlos Medina is an aspiring Full Stack Web Developer. He has a marketing degree from Florida International University, Miami, FL, and a Professional Tennis Management degree from Ferris State University, Big Rapids, MI. 
+ José Carlos Medina is a Full Stack Web Developer. He has a marketing degree from Florida International University, Miami, FL, and a Professional Tennis Management degree from Ferris State University, Big Rapids, MI. 
 
  He has worked in the tennis industry for over 15 years. He is the former Web Site Coordinator of the United States Tennis Association (USTA) Florida Section. He held that position for over 10 years in the old headquarters of USTA Florida in Daytona Beach, FL.  
 
